@@ -1,0 +1,32 @@
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student_Manager.Form1.resources
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student_Manager.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\Student Manager.exe.config
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\Student Manager.exe
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\Student Manager.pdb
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student .4D7458F5.Up2Date
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.exe
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.pdb
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.exe.config

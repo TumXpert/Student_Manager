@@ -1,0 +1,16 @@
+[
+  {
+    "FirstName": "Jude",
+    "LastName": "Lekanai",
+    "Age": 20,
+    "BirthDate": "2002-05-23T00:00:00",
+    "Grade": "A"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Taon",
+    "Age": 23,
+    "BirthDate": "2001-03-23T00:00:00",
+    "Grade": "A"
+  }
+]
