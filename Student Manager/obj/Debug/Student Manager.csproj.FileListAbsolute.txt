@@ -30,3 +30,4 @@ C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student 
 C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.exe
 C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.pdb
 C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student Manager.exe.config
+C:\Users\ADMIN\Desktop\Tum\C#\Student Manager\Student Manager\obj\Debug\Student_Manager.Login.resources

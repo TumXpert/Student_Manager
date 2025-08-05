@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Data.SqlClient;
-using System.Diagnostics;
-using System.IO;
-using System.Text.Json;
 using System.Windows.Forms;
 
 
@@ -49,7 +43,8 @@ namespace Student_Manager
                     cmd.Parameters.AddWithValue("@BirthDate", dtDob.Value);
                     cmd.Parameters.AddWithValue("@Grade", txtGrade.Text);
                     cmd.ExecuteNonQuery();
-                };
+                }
+                ;
 
                 MessageBox.Show("Student Added to the Database");
                 LoadStudentsFromDatabase();
@@ -67,7 +62,7 @@ namespace Student_Manager
         {
             btnUpdate.Enabled = true;
             btnDelete.Enabled = true;
-            if (dgvStudents.CurrentRow != null && dgvStudents.CurrentRow.DataBoundItem is Student s) 
+            if (dgvStudents.CurrentRow != null && dgvStudents.CurrentRow.DataBoundItem is Student s)
             {
                 selectedStudentId = s.Id;
                 txtFirstName.Text = s.FirstName;
@@ -110,7 +105,7 @@ namespace Student_Manager
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            if (selectedStudentId > 0 )
+            if (selectedStudentId > 0)
             {
                 try
                 {
@@ -145,7 +140,7 @@ namespace Student_Manager
             }
         }
 
-        
+
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (selectedStudentId > 0)
@@ -159,10 +154,10 @@ namespace Student_Manager
                         string query = "DELETE FROM Students WHERE Id = @Id";
                         SqlCommand cmd = new SqlCommand(query, conn);
                         cmd.Parameters.AddWithValue("@Id", selectedStudentId);
-                        cmd.ExecuteNonQuery ();
+                        cmd.ExecuteNonQuery();
                     }
                     selectedStudentId = -1;
-                    LoadStudentsFromDatabase ();
+                    LoadStudentsFromDatabase();
                     MessageBox.Show("Student deleted");
                 }
             }
@@ -188,6 +183,5 @@ namespace Student_Manager
             dgvStudents.DataSource = null;
             dgvStudents.DataSource = filtered;
         }
-
     }
 }
